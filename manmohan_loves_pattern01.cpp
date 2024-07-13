@@ -1,3 +1,12 @@
+1
+11
+111
+1001
+11111
+100001
+
+
+
 #include <iostream>
 using namespace std;
 
