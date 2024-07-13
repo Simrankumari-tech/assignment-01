@@ -1,3 +1,12 @@
+1
+11
+202
+3003
+40004
+
+
+
+
 #include <iostream>
 using namespace std;
 int main(){
