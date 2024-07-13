@@ -1,3 +1,11 @@
+1 
+1 4 
+1 4 9 
+1 4 9 16 
+1 4 9 16 25 
+
+
+
 #include<iostream>
 using namespace std;
 int main () {
